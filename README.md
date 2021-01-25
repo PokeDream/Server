@@ -1,6 +1,6 @@
 # The PokeDream Network
 
-Server IP: play.pokedream.org
+Server IP: `play.pokedream.org`
 
 ## About Us
 
